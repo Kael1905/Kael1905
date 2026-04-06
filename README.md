@@ -25,7 +25,6 @@ I'm a **Computer Engineering student** who loves digging through code like a rac
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://t.me/rownhy" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ilke-deniz-karakaş-684843336" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kael1905.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 

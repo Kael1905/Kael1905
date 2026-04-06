@@ -38,11 +38,6 @@ I'm a **Computer Engineering student** who loves digging through code like a rac
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kael1905&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kael's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kael1905&theme=201x" alt="Stats Card" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=38bdf8&height=200&section=header&text=Racoon%20Developer&fontSize=90" />
 </p>

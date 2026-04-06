@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=38bdf8&height=200&section=header&text=Racoon%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
 
 # Hi there, I'm Kael! 🦝 
 

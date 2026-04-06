@@ -9,7 +9,7 @@
 ---
 
 ### 🦝 About Me
-I'm a **Computer Engineering student** who loves digging through code. Currently pivoting my focus from character APIs to the high-speed world of **Formula 1 data**. 🏁
+I'm a **Computer Engineering student** who loves digging through code like a raccoon digs through... well, interesting stuff.. Currently pivoting my focus from character APIs to the high-speed world of **Formula 1 data**. 🏁
 
 - 🔭 **Current Project:** Developing a **Formula 1 Data Dashboard** (Ergast & OpenF1 APIs).
 - 🛠️ **Tech Stack:** Python, Java, C#, JavaScript, Unity.
@@ -44,5 +44,5 @@ I'm a **Computer Engineering student** who loves digging through code. Currently
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kael1905&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kael1905&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs" />
 </p>

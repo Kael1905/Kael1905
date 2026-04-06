@@ -1,4 +1,4 @@
-# Hi there, I'm Kael! 🦝 🏎️💨
+# Hi there, I'm Kael! 🦝 
 
 <p align="center">
   <img src="https://github.com/Kael1905.png" width="150" style="border-radius: 50%; border: 3px solid #38bdf8;"/>

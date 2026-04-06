@@ -40,9 +40,9 @@ I'm a **Computer Engineering student** who loves digging through code like a rac
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kael1905&show_icons=true&theme=tokyonight&count_private=true" alt="Kael's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kael1905&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kael's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kael1905&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kael1905&theme=201x" alt="Stats Card" />
 </p>

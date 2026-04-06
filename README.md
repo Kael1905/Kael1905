@@ -4,7 +4,7 @@
   <img src="https://github.com/Kael1905.png" width="150" style="border-radius: 50%; border: 3px solid #38bdf8;"/>
 </p>
 
-<h3 align="center">Senior Raccoon Developer </h3>
+<h3 align="center"> Raccoon Developer </h3>
 
 ---
 

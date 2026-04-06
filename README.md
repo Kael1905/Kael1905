@@ -1,20 +1,16 @@
-# Hi there, I'm Kael! 🦝 
-
 <p align="center">
-  <img src="https://github.com/Kael1905.png" width="150" style="border-radius: 50%; border: 3px solid #38bdf8;"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=38bdf8&height=200&section=header&text=Racoon%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">Raccoon Developer | Computer Engineering Student</h3>
-
----
+# Hi there, I'm Kael! 🦝 
 
 ### 🦝 About Me
-I'm a **Computer Engineering student** who loves digging through code like a raccoon digs through... well, interesting stuff.. Currently pivoting my focus from character APIs to the high-speed world of **Formula 1 data**. 🏁
+I'm a **Computer Engineering student** who loves digging through code like a raccoon digs through... well, interesting stuff.. Currently pivoting my focus to the high-speed world of **Formula 1 data**. 🏁
 
-- 🔭 **Current Project:** Developing a **Formula 1 Data Dashboard** (Ergast & OpenF1 APIs).
+- 🔭 **Current Project:** Developing a **Formula 1 Data Dashboard**.
 - 🛠️ **Tech Stack:** Python, Java, C#, JavaScript, Unity.
 - 🏎️ **Hobbies:** Motor Sports.
-- 📡 **Digital Identity:** You probably found me via my **NFC tag**.
+- 📡 **Digital Identity:** You probably found me via my [**NFC tag**](https://kael1905.github.io).
 
 ---
 
@@ -39,5 +35,5 @@ I'm a **Computer Engineering student** who loves digging through code like a rac
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=38bdf8&height=200&section=header&text=Racoon%20Developer&fontSize=90" />
+  <i>"Keep digging, keep coding."</i> 🦝✨
 </p>

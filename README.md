@@ -1,17 +1,17 @@
-# Hi there, I'm Kael! 🦝 🚀
+# Hi there, I'm Kael! 🦝 🏎️💨
 
 <p align="center">
   <img src="https://github.com/Kael1905.png" width="150" style="border-radius: 50%; border: 3px solid #38bdf8;"/>
 </p>
 
-<h3 align="center"> Raccoon Developer </h3>
+<h3 align="center">Raccoon Developer | Computer Engineering Student</h3>
 
 ---
 
 ### 🦝 About Me
-I'm a **Computer Engineering student** who loves digging through code like a raccoon digs through... well, interesting stuff. 🗑️✨ I build games with **Unity**, web apps with **React**, and I'm currently obsessed with **NFC technology**.
+I'm a **Computer Engineering student** who loves digging through code. Currently pivoting my focus from character APIs to the high-speed world of **Formula 1 data**. 🏁
 
-- 🔭 **Current Project:** Building a web app with the **Formula 1 API**.
+- 🔭 **Current Project:** Developing a **Formula 1 Data Dashboard** (Ergast & OpenF1 APIs).
 - 🛠️ **Tech Stack:** Python, Java, C#, JavaScript, Unity.
 - 🏎️ **Hobbies:** Motor Sports.
 - 📡 **Digital Identity:** You probably found me via my **NFC tag**.
@@ -31,13 +31,18 @@ I'm a **Computer Engineering student** who loves digging through code like a rac
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://t.me/rownhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="rownhy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ilke-deniz-karakaş-684843336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilke-deniz-karakaş-684843336" height="30" width="40" /></a>
-<a href="https://kael1905.github.io" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/38bdf8/link.png" alt="portfolio" height="30" width="30" /></a>
+<a href="https://t.me/rownhy" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ilke-deniz-karakaş-684843336" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kael1905.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kael1905&show_icons=true&theme=tokyonight" alt="Kael's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kael1905&show_icons=true&theme=tokyonight&count_private=true" alt="Kael's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kael1905&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
